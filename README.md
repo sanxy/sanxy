@@ -8,4 +8,6 @@
 - 📫 How to reach me: yusufadefolahan@gmail.com
 - ⚡ Fun fact: I love watching video tutorials than reading
 
+![counter](https://https://eny14ahkrxjj815.m.pipedream.net)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanxy)
