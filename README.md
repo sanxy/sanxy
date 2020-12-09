@@ -15,7 +15,17 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanxy&show_icons=true&theme=light&line_height=27" alt="Yusuf Folahan's github stats"/>
 </a>
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=sanxy)
+## Featured
+
+<a href="https://github.com/sanxy/Flutter-Clones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanxy&repo=Flutter-Clones&theme=light" />
+
+</a>
+
+<a href="https://github.com/sanxy/Kotlin-Clones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanxy&repo=Flutter-Clones&theme=light" />
+
+</a>
 
 ## Connect with me at
 
