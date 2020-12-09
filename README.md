@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/sanxy/Kotlin-Clones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanxy&repo=Flutter-Clones&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanxy&repo=Kotlin-Clones&theme=light" />
 
 </a>
 
