@@ -14,6 +14,8 @@
   <a href="https://github.com/sanxy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanxy&show_icons=true&theme=light&line_height=27" alt="Yusuf Folahan's github stats"/>
 </a>
+
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanxy&theme=dark)
   
 ## Featured
 
@@ -27,22 +29,7 @@
 
 </a>
 
-<p align="center">
-  <strong>Some more stats</strong>
-  <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/sanxy/sanxy" alt="visits">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/sanxy" alt="years">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/sanxy" alt="repos">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/sanxy" alt="commits">
-  </a>
-</p>
+
 
 ## Connect with me at
 
