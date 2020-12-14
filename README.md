@@ -14,8 +14,6 @@
   <a href="https://github.com/sanxy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanxy&show_icons=true&theme=light&line_height=27" alt="Yusuf Folahan's github stats"/>
 </a>
-
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanxy&theme=dark)
   
 ## Featured
 
