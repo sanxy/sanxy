@@ -31,10 +31,6 @@
 
 ## Connect with me at
 
-- [Twitter](https://www.twitter.com/wsanxy)
-- [LinkedIn](https://www.linkedin.com/in/sanxy)
-- [Github](https://github.com/sanxy)
-
 <p><a href="https://twitter.com/wsanxy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://github.com/sanxy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
  <a href="https://www.linkedin.com/in/sanxy" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
