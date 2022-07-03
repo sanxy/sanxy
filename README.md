@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on freelance Projects
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently working at CapitalSage Limited 
+- 🌱 I’m Flutter Developer
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help with Nothing
 - 💬 Ask me about Flutter
