@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at CapitalSage Limited 
-- 🌱 I’m Flutter Developer
+- 🌱 I’m Mobile Developer
 - 👯 I’m looking to collaborate on Open-Source projects
-- 🤔 I’m looking for help with Nothing
-- 💬 Ask me about Flutter
+- 🤔 I’m looking for help others
+- 💬 Ask me about Flutter, Java and Kotlin
 - 📫 How to reach me: yusufadefolahan@gmail.com
 - ⚡ Fun fact: I love watching video tutorials than reading
 
