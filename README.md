@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at CapitalSage Limited 
+- 🔭 I’m currently working at CapitalSage Holdings Limited 
 - 🌱 I’m Mobile Developer
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help others
