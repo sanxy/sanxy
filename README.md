@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at CapitalSage Holdings Limited 
-- 🌱 I’m Mobile Developer
+- 🌱 I’m Mobile Engineer
 - 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help others
 - 💬 Ask me about Flutter, Java and Kotlin
