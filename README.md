@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help others
 - 💬 Ask me about Flutter, Java and Kotlin
 - 📫 How to reach me: yusufadefolahan@gmail.com
-- ⚡ Fun fact: I love watching video tutorials than reading
+- ⚡ Fun fact: I love playing games, paintball shooting, travelling and swimming
 
 <a href="https://github.com/sanxy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanxy&theme=light" />
